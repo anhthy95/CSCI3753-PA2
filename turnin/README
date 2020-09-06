@@ -1,0 +1,14 @@
+
+Jonathan Bluhm
+jobl6075@colorado.edu
+
+pa2_char_driver.c - has code for creating device driver
+Makefile - adds pa2_char_driver to modules
+Test program- allows for interactions with the device
+
+to install test program:
+
+gcc user_prog.c -o ${name_of_executable}
+
+writing cannot take spaces, i spent maybe an hour trying to get spaces to work, but
+after an hour I just figured it was not worth any more time
